@@ -5,10 +5,11 @@
  *puzzle, followed by newline.
  * Return: Always 0.
  */
+
 int main(void)
 
 {
-    prints("\"programing is like building a multilingual puzzle");
+    puts("\"programing is like building a multilingual puzzle");
     return (0);
 
 }
