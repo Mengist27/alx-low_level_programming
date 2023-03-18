@@ -1,4 +1,4 @@
-#include <stdio,h>
+#include <stdio.h>
 
 /**
  * main - main function
@@ -8,11 +8,11 @@
 
 int main(void)
 {
-	int l;
+	int i;
 	int j;
 	int k;
 
-	for (i = o ; i < 10 ; i++)
+	for (i = 0 ; i < 10 ; i++)
 	{
 		for (j = 1 ; j < 10 ; j++)
 		{
