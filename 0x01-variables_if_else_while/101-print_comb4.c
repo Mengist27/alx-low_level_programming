@@ -3,7 +3,7 @@
 /**
  * main - main function
  *
- * Retrun: Always 0
+ * Retrun: always 0
  */
 
 int main(void)
