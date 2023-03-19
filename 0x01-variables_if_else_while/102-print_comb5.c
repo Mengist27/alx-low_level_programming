@@ -3,8 +3,7 @@
 #include <time.h>
 
 /**
- * main - main function
- *
+ * main - Entry point
  * Return: Always 0
  */
 
@@ -24,8 +23,8 @@ int main(void)
 			putchar((j % 10) + '0');
 			if (i == 98 && j == 99)
 			continue;
-				putchar(',');
-				putchar(' ');
+			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
