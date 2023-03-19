@@ -7,9 +7,7 @@
  */
 
 int main(void)
-
 {
-	
 	int i;
 	int j;
 	int k;
@@ -35,6 +33,6 @@ int main(void)
 			}
 		}
 	}
-	putchar('\n');
+	putchar("\n");
 	return (0);
 }
