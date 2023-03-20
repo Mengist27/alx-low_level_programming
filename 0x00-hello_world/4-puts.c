@@ -3,8 +3,8 @@
 
 /**
  * main - prints "programming is like building a multilingual
- *puzzle, followed by newline.
- * Return: Always 0.
+ *                puzzle, followed by newline
+ * Return: 0
  */
 
 int main(void)
