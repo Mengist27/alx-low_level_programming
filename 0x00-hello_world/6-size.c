@@ -2,8 +2,8 @@
 
 
 /**
- * main - prints the size of various types based on
- * the computer it is compiled and run on..
+ * main - prints the size of various types on the computer it is compiled and run on
+ * 
  * Rerurn: Always 0.
  */
 
