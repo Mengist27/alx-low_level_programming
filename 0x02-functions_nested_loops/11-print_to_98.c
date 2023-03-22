@@ -3,9 +3,10 @@
 
 /**
  * print_to_98 - function to print natural
+ *
  * @n: function parameter
  *
- * Return: Always 0
+ * Return: always 0
  */
 
 void print_to_98(int n)
@@ -44,5 +45,5 @@ void print_to_98(int n)
 		printf("\n");
 	}
 	else if (n == 98)
-		printf("%d", n);	
+		printf("%d", n);
 }
