@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - function
+ * main - main  function
  *
  * Return: Always 0
  */
@@ -20,6 +20,6 @@ int main(void)
 			sum = sum + i;
 		}
 	}
-	printf("%d", sum);
+	printf("%d\", sum);
 	return (0);
 }
