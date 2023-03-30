@@ -16,7 +16,7 @@ char *string_toupper(char *str);
 char *cap_string(char *);
 char *cap_string(char *str);
 char *cap_string(char *str);
-char *rot13(char *);
+char *rot13(char *s);
 
 
 
