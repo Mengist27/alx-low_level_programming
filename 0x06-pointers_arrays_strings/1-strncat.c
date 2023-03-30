@@ -4,7 +4,7 @@
  * @dest: destination string
  * @src: source of string
  * @n: number of character to be append
- * Return: concatenated string
+ * Return: destination string
  */
 
 char *_strncat(char *dest, char *src, int n)
