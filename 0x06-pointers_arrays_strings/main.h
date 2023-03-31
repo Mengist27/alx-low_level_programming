@@ -22,6 +22,10 @@ char *cap_string(char *str);
 char *rot13(char *);
 void print_number(int n);
 int _putchar(char c);
+int main(void);
+void print_buffer(char *b, int size);
+void print_buffer(char *b, int size);
+
 
 
 
