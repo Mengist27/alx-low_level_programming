@@ -5,7 +5,6 @@
  * @n: integer
  * Return: Always 0
  */
-
 void print_diagonal(int n)
 {
 	int j;
@@ -30,4 +29,3 @@ void print_diagonal(int n)
 		}
 	}
 }
-
