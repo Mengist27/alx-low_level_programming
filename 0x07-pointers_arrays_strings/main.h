@@ -10,6 +10,7 @@ void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
 int _putchar(char c);
 char *_strstr(char *haystack, char *needle);
+void set_string(char **s, char *to);
 
 
 

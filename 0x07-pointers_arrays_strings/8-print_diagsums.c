@@ -1,5 +1,5 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
  * print_diagsums - entery points
@@ -16,6 +16,6 @@ void print_diagsums(int *a, int size)
 		sum1 = sum2 + a[i];
 
 	for (n = size - 1; n <= (size * size) - size; n = n + size - 1)
-		sum2 = sum2 + a[n];
+	sum2 = sum2 + a[n];
 	printf("%d, %d\n", sum1, sum2);
 }
