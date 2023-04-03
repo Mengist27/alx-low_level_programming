@@ -6,13 +6,12 @@
  * @accept: input
  * Return: always 0
  */
-
 unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int n = 0;
 	int i;
 
-       while (*s)
+	while (*s)
 	{
 		for (i = 0; accept[i]; i++)
 		{
@@ -26,5 +25,5 @@ unsigned int _strspn(char *s, char *accept)
 		}
 		s++;
 	}
-       return (n);
+	return (n);
 }
