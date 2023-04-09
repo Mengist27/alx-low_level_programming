@@ -4,6 +4,7 @@
 /**
  * _atoi - Convert the string to an integer
  * @s: The string to be converted
+ *
  * Return: The integer converted from the string
  */
 int _atoi(char *s)
@@ -47,7 +48,8 @@ int _atoi(char *s)
 /**
  * main - Multiplies of two numbers
  * @argc: Numbers of argument
- * @argv: array of arguments
+ * @argv: array of argument
+ *
  * Return: always 0 (success), 1 (Error)
  */
 int main(int argc, char *argv[])
@@ -64,5 +66,6 @@ int main(int argc, char *argv[])
 	result = num1 * num2;
 
 	printf("%d\n", result);
+
 	return (0);
 }
